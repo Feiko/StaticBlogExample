@@ -1,4 +1,5 @@
-﻿Title: My First Statiq page
+﻿---
+Title: My First Statiq page
 ---
 # Hello World!
 
