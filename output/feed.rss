@@ -5,15 +5,15 @@
 		<link>/</link>
 		<description />
 		<copyright>Copyright © 2021</copyright>
-		<pubDate>Thu, 29 Apr 2021 18:26:11 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Apr 2021 18:26:11 GMT</lastBuildDate>
+		<pubDate>Thu, 29 Apr 2021 19:09:00 GMT</pubDate>
+		<lastBuildDate>Thu, 29 Apr 2021 19:09:00 GMT</lastBuildDate>
 		<item>
 			<title>Example blog</title>
 			<link>/posts/2021-04-29-example-blog</link>
 			<description>&lt;p&gt;This is an example blog created by Feiko. Give some love to &lt;a href="https://feiko.io/"&gt;Feiko.IO&lt;/a&gt;&lt;/p&gt;</description>
 			<enclosure url="/input/images/untitled.png" length="0" type="image" />
 			<guid isPermaLink="false">/posts/2021-04-29-example-blog</guid>
-			<pubDate>Thu, 29 Apr 2021 19:36:38 GMT</pubDate>
+			<pubDate>Thu, 29 Apr 2021 20:36:04 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is an example blog created by Feiko. Give some love to &lt;a href="https://feiko.io/"&gt;Feiko.IO&lt;/a&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class="language-csharp"&gt;using System;
 
@@ -23,17 +23,6 @@ public class Program{
   }
 }
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded>
-			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
-		</item>
-		<item>
-			<title>My First Statiq page</title>
-			<link>/posts</link>
-			<description>&lt;p&gt;Hello from my first Statiq page.&lt;/p&gt;</description>
-			<guid isPermaLink="false">/posts</guid>
-			<pubDate>Thu, 29 Apr 2021 19:24:09 GMT</pubDate>
-			<content:encoded>&lt;h1 id="hello-world"&gt;Hello World!&lt;/h1&gt;
-&lt;p&gt;Hello from my first Statiq page.&lt;/p&gt;
 </content:encoded>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
