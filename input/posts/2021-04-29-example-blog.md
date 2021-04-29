@@ -5,7 +5,7 @@ Published": 2021-04-29T17:24:23.431Z
 tags:
   - example
   - test
-image: /input/img/bannerfeikoio.png
+image: /input/images/untitled.png
 isPost": true
 ---
 This is an example blog created by Feiko. Give some love to [Feiko.IO](https://feiko.io)

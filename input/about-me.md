@@ -2,7 +2,7 @@
 title: About Me
 lead: This is me
 description: "this is a description "
-image: /input/img/bannerfeikoio.png
+image: /input/images/untitled.png
 isPost": true
 " showInNavbar": true
 ---
