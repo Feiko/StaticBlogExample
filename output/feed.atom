@@ -4,7 +4,25 @@
 	<title />
 	<link rel="self" href="/" />
 	<rights>Copyright © 2021</rights>
-	<updated>2021-04-29T18:11:01Z</updated>
+	<updated>2021-04-29T18:26:11Z</updated>
+	<entry>
+		<id>/posts/2021-04-29-example-blog</id>
+		<title>Example blog</title>
+		<link href="/posts/2021-04-29-example-blog" />
+		<link rel="enclosure" type="image" href="/input/images/untitled.png" />
+		<updated>2021-04-29T19:36:38Z</updated>
+		<content>&lt;p&gt;This is an example blog created by Feiko. Give some love to &lt;a href="https://feiko.io/"&gt;Feiko.IO&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-csharp"&gt;using System;
+
+public class Program{
+  public static Main(){
+    Console.WriteLine(&amp;quot;Hello World&amp;quot;);
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+		<summary>&lt;p&gt;This is an example blog created by Feiko. Give some love to &lt;a href="https://feiko.io/"&gt;Feiko.IO&lt;/a&gt;&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>/posts</id>
 		<title>My First Statiq page</title>
