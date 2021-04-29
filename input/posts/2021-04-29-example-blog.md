@@ -8,7 +8,7 @@ tags:
 image: /input/images/untitled.png
 isPost": true
 ---
-Hi this is a test blog
+This is an example blog created by Feiko. Give some love to [Feiko.IO](https://feiko.io)
 
 ```csharp
 using System;
