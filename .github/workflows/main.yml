@@ -1,5 +1,4 @@
-name: Publish Feiko.IO
-	
+name: Publish GitHub Page
 
 	on:
 	  push:
