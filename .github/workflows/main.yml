@@ -21,4 +21,4 @@ name: Publish Feiko.IO
 	        dotnet-version: 5.0.x
 	    - run: dotnet run -- deploy
 	      env:
-	        FEIKOIO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+	        FEIKOIO_TOKEN: ${{ secrets.PAGE_TOKEN }}
