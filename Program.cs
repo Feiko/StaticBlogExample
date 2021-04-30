@@ -13,11 +13,23 @@ namespace StaticBlogExample
             await Bootstrapper
             .Factory
             .CreateWeb(args)
+            .DeployToGitHubPagesBranch(
+                "fgorter",
+                "fgorter.github.io",
+                Environment.GetEnvironmentVariable("PAGE_TOKEN"),
+                "gh-pages"
+                )
             .AddSetting(WebKeys.ExcludedPaths,
                 new List<NormalizedPath>
                 {
                     new NormalizedPath("input/admin"),
                 })
+
             .RunAsync();
     }
 }
+
+
+
+
+

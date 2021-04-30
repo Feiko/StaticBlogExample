@@ -5,15 +5,15 @@
 		<link>/</link>
 		<description />
 		<copyright>Copyright © 2021</copyright>
-		<pubDate>Thu, 29 Apr 2021 19:09:00 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Apr 2021 19:09:00 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Apr 2021 06:34:00 GMT</pubDate>
+		<lastBuildDate>Fri, 30 Apr 2021 06:34:00 GMT</lastBuildDate>
 		<item>
 			<title>Example blog</title>
 			<link>/posts/2021-04-29-example-blog</link>
 			<description>&lt;p&gt;This is an example blog created by Feiko. Give some love to &lt;a href="https://feiko.io/"&gt;Feiko.IO&lt;/a&gt;&lt;/p&gt;</description>
-			<enclosure url="/input/images/untitled.png" length="0" type="image" />
+			<enclosure url="/images/youtube.png" length="0" type="image" />
 			<guid isPermaLink="false">/posts/2021-04-29-example-blog</guid>
-			<pubDate>Thu, 29 Apr 2021 20:36:04 GMT</pubDate>
+			<pubDate>Thu, 29 Apr 2021 21:13:52 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is an example blog created by Feiko. Give some love to &lt;a href="https://feiko.io/"&gt;Feiko.IO&lt;/a&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class="language-csharp"&gt;using System;
 

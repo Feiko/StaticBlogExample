@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "StaticBlogExample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "GITHUB_TOKEN": "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"
+      }
+    }
+  }
+}
