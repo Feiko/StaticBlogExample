@@ -3,8 +3,9 @@ ShouldOutput: true
 
 backend:
   name: github
-  repo: feiko/StaticBlogExample
+  repo: <GitHubName>/<RepoName>
   branch: master
+  site_domain: <Netlify SiteName>.netlify.app
 
 media_folder: "/input/images/"
 public_folder: "/images/"
